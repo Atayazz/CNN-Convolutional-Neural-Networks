@@ -56,9 +56,6 @@ python main.py --epochs 20 --batch_size 64 --lr 0.001
 
 After training, the accuracy and loss metrics can be visualized:
 
-![Accuracy](results/accuracy.png)  
-![Loss](results/loss.png)
-
 Once training is complete, the model can be evaluated on test data for performance measurement.
 
 ## 📈 Key Learnings
